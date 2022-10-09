@@ -6,7 +6,7 @@ except ImportError as e:
 	sys.exit("Error while importing modules. Please install the modules in requirements.txt")
 
 class UAME:
-	def __init__(self, n, device = None, balance = None):
+	def __init__(self, n, device = [], balance = []):
 		self.location = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 		self.file = os.path.join(self.location, 'uame.json')
 		try:
