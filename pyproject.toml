@@ -1,0 +1,14 @@
+[project]
+name = "uame"
+description = "uame package"
+version = "0.1.0"
+authors = [
+    { name = "Nick (twitter.com/_stayml)", email = "nicholas.beaton@protonmail.ch" }
+]
+dependencies = [
+    "requests"
+]
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = ["flit_core >=3.2,<4"]
