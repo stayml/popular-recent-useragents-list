@@ -1,2 +1,5 @@
 # uame
-Quickly generate a list of desktop, mobile, and/or tablet useragent strings of the latest browsers for web scraping.
+An always up-to-date list of useragent strings for use in your next web scraping task
+
+https://useragents.me
+
