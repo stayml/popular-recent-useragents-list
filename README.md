@@ -5,8 +5,8 @@ An always up-to-date list of [useragent strings](https://www.useragents.me) for 
 
 An example function made with data sourced from [https://www.useragents.me](https://www.useragents.me/). This can be used in web scraping projects where sending a large number of requests from the same useragent could lead to bans and blocks.
 
-Note: This was made with useragent data current to 17 November 2022. For the *most recent* data, please see the above site ^
-
+_Note: This was made with useragent data current to 17 November 2022. For the **most recent** data, please see the above site ^
+_
 ```python
 import random
 
