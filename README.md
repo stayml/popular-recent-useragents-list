@@ -1,7 +1,7 @@
 # useragents.me
-An always up-to-date list of [useragent strings](https://www.useragents.me) for use in your next web scraping project
+An always up-to-date list of [useragent strings](https://www.useragents.me) for use in your next web scraping project.
 
-Available as [JSON](https://www.useragents.me/api)
+Also available as an [API](https://www.useragents.me/api) (in JSON format).
 
 Last updated: 14 November 2022
 
