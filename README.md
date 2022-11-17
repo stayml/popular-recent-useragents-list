@@ -1,5 +1,46 @@
-# uame
-An always up-to-date list of useragent strings for use in your next web scraping project
+# useragents.me
+An always up-to-date list of [useragent strings](https://www.useragents.me) for use in your next web scraping project
 
-https://useragents.me
+|    | ua                                                                                                                                                |   pct | device   | browser            | os                   |
+|---:|:--------------------------------------------------------------------------------------------------------------------------------------------------|------:|:---------|:-------------------|:---------------------|
+|  0 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36                                   | 41.85 | desktop  | Chrome 107         | Windows 10           |
+|  1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42                 | 20.93 | desktop  | Microsoft Edge 107 | Windows 10           |
+|  2 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36                             |  6.76 | desktop  | Chrome 107         | macOS 10.15 Catalina |
+|  3 | Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0                                                                  |  5.82 | desktop  | Firefox 106        | Windows 10           |
+|  4 | Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0                                                                  |  2.88 | desktop  | Firefox 107        | Windows 10           |
+|  5 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35                 |  2.75 | desktop  | Microsoft Edge 107 | Windows 10           |
+|  6 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36                                   |  2.5  | desktop  | Chrome 106         | Windows 10           |
+|  7 | Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0                                                                  |  1.25 | desktop  | Firefox 102        | Windows 10           |
+|  8 | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36                                             |  1.13 | desktop  | Chrome 107         | Linux                |
+|  9 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:106.0) Gecko/20100101 Firefox/106.0                                                              |  1    | desktop  | Firefox 106        | macOS 10.15 Catalina |
+| 10 | Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36                                        |  0.88 | desktop  | Chrome 107         | Windows 10           |
+| 11 | Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36                                    |  0.88 | desktop  | Chrome 107         | Windows 7            |
+| 12 | Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36                                    |  0.75 | desktop  | Chrome 107         | Windows 8.1          |
+| 13 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67               |  0.75 | desktop  | Microsoft Edge 92  | Windows 10           |
+| 14 | Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)                                                                                           |  0.75 | desktop  | IE 6               | Windows XP           |
+| 15 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36                                   |  0.63 | desktop  | Chrome 105         | Windows 10           |
+| 16 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52               |  0.63 | desktop  | Microsoft Edge 84  | Windows 10           |
+| 17 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0                      |  0.63 | desktop  | Opera 92           | Windows 10           |
+| 18 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36                                   |  0.63 | desktop  | Chrome 104         | Windows 10           |
+| 19 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52                 |  0.63 | desktop  | Microsoft Edge 106 | Windows 10           |
+| 20 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27                 |  0.5  | desktop  | Microsoft Edge 105 | Windows 10           |
+| 21 | Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0                                                                   |  0.38 | desktop  | Firefox 107        | Windows 7            |
+| 22 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47                 |  0.38 | desktop  | Microsoft Edge 106 | Windows 10           |
+| 23 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42                 |  0.38 | desktop  | Microsoft Edge 105 | Windows 10           |
+| 24 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26                 |  0.38 | desktop  | Microsoft Edge 107 | Windows 10           |
+| 25 | Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36                                    |  0.38 | desktop  | Chrome 106         | Windows 7            |
+| 26 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0                                                                    |  0.38 | desktop  | Firefox 106        | Linux (Ubuntu)       |
+| 27 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44            |  0.25 | desktop  | Microsoft Edge 102 | Windows 10           |
+| 28 | Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0                                                                    |  0.25 | desktop  | Firefox 91         | Windows 10           |
+| 29 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2419 Yowser/2.5 Safari/537.36 |  0.25 | desktop  | Yandex.Browser 22  | Windows 10           |
+| 30 | Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36                                 |  0.25 | desktop  | Chrome 97          | Windows 7            |
+| 31 | Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0                                                                                 |  0.25 | desktop  | Firefox 52         | Windows XP           |
+| 32 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42                 |  0.25 | desktop  | Microsoft Edge 106 | Windows 10           |
+| 33 | Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0                                                                            |  0.25 | desktop  | Firefox 102        | Linux                |
+| 34 | Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko                                                                             |  0.25 | desktop  | IE 11              | Windows 10           |
+| 35 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33             |  0.25 | desktop  | Microsoft Edge 102 | Windows 10           |
+| 36 | Mozilla/5.0 (X11; CrOS armv7l 13597.84.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.106 Safari/537.36                               |  0.25 | desktop  | Chrome 98          | Chrome OS            |
+| 37 | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36                                          |  0.25 | desktop  | Chrome 81          | Linux                |
+| 38 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15                             |  0.25 | desktop  | Safari 16          | macOS 10.15 Catalina |
+| 39 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36                               |  0.25 | desktop  | Chrome 78          | Windows 10           |
 
